@@ -1,3 +1,2 @@
 # jp-git-project
-This is for learning
-
+my learning project
