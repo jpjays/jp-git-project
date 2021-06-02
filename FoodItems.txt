@@ -1,11 +1,26 @@
 
 Fruits
-
 1. Mango
 2. Apple
 3. watermelon
 coffe
 soda
+3. Grape
+4. Avocardo
+5. watermelon
+
+Book
+bible
+quran
+geeta
+bharatham
+
+School
+student
+desk
+bench
+pen
+Pensil
 
 Fruits
 3. Orange
@@ -17,6 +32,10 @@ wine
 beer
 soda
 cola
+lemaon water
+mango juice
+tea
+coffe
 
 Other-Rice
 Nudils
