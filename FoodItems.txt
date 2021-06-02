@@ -8,7 +8,12 @@ quran
 geeta
 bharatham
 
-
+School
+student
+desk
+bench
+pen
+Pensil
 
 Fruits
 3. Orange
