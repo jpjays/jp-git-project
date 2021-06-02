@@ -8,6 +8,11 @@ Fruits
 1. Potato
 2. Tomato
 
+Drinks
+wine
+beer
+soda
+cola
 
 Other-Rice
 Nudils
