@@ -8,3 +8,6 @@ Vegitable
 
 1. Potato
 2. Tomato
+
+
+Other-Rice
