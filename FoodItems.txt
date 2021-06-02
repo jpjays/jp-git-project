@@ -3,6 +3,10 @@ Fruits
 
 1. Mango
 2. Apple
+3. watermelon
+coffe
+soda
+
 Fruits
 3. Orange
 1. Potato
