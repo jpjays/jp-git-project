@@ -2,3 +2,4 @@ Vegitables
 
 1. Tomato
 2. Cabbage
+3. Lettuce
