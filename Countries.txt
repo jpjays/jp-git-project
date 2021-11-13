@@ -1,11 +1,12 @@
-1. Canda
-2. Fiji
-3. Japan
-4. China
+1. India
+2. Africa
+3. HongKong
+4. USA
+5. China
+6. Aus
+
 
 Places
 Delhi
 Roam
 North Point
-
-Macau
