@@ -1,4 +1,3 @@
 Vegitables
 
-1. Potato
-2. Tomato
+1. Tomato
